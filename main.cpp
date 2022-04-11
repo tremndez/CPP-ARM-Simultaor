@@ -9,4 +9,5 @@ int main()
   std::getline(inputFile, line);
 
   std::cout << line << std::endl;
+  std::cout << "Y" << std::endl;
 }
